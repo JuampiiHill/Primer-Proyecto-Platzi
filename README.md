@@ -1,2 +1,2 @@
 # Primer-Proyecto-Platzi
-Repositorio modo estudio curso de Git y GitHub
+Repositorio a modo de estudio. Curso de Git y GitHub
